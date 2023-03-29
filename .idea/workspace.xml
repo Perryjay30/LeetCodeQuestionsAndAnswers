@@ -1,14 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="175bca50-39fc-429a-9916-9a2be51e8517" name="Changes" comment="" />
+    <list default="true" id="175bca50-39fc-429a-9916-9a2be51e8517" name="Changes" comment="Maximum sum of a sub array">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayDuplication/Dsa2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/InterviewQuestionsPractice2/ArrayReversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LargestAndSecondLargest/Dsa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Palindrome/PalindromeString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InterviewQuestionsPractice/DuplicatesNumberInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterviewQuestionsPractice/DuplicatesNumberInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InterviewQuestionsPractice2/BasicStatsOnArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RotatingArray/RotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RotatingArray/RotateArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/reversePolishNotation/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reversePolishNotation/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/wordBreak/WorkBreakSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/wordBreak/WorkBreakSolution.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IoJooYPFyKCcEEtEqHpVRbVbCL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,13 +42,96 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="InterviewQuestionsPractice2" />
+      <recent name="InterviewQuestionsPractice" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Dsa">
+    <configuration name="BasicStatsOnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestionsPractice2.BasicStatsOnArray" />
+      <module name="LeetCodeQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterviewQuestionsPractice2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dsa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LargestAndSecondLargest.Dsa" />
+      <module name="LeetCodeQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LargestAndSecondLargest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dsa2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayDuplication.Dsa2" />
+      <module name="LeetCodeQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArrayDuplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuplicatesNumberInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestionsPractice.DuplicatesNumberInArray" />
+      <module name="LeetCodeQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterviewQuestionsPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpandingArray.Expand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExpandingArray.Expand" />
+      <module name="LeetCodeQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterviewQuestionsPractice2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Dsa" />
+        <item itemvalue="Application.ExpandingArray.Expand" />
+        <item itemvalue="Application.Dsa2" />
+        <item itemvalue="Application.DuplicatesNumberInArray" />
+        <item itemvalue="Application.BasicStatsOnArray" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,8 +140,99 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670842182824</updated>
-      <workItem from="1670842187584" duration="1000" />
+      <workItem from="1670842187584" duration="3783000" />
+      <workItem from="1672238338600" duration="35259000" />
+      <workItem from="1673701927821" duration="3884000" />
+      <workItem from="1674068175033" duration="804000" />
+      <workItem from="1674171626296" duration="590000" />
+      <workItem from="1676581604301" duration="20197000" />
+      <workItem from="1678021632963" duration="1619000" />
+      <workItem from="1678521530850" duration="818000" />
+      <workItem from="1679603453376" duration="13301000" />
+      <workItem from="1680093834850" duration="4381000" />
     </task>
+    <task id="LOCAL-00001" summary="Armstrong Number">
+      <created>1673793473798</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673793473799</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Basic Stats On Array">
+      <created>1673793827170</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673793827170</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Duplicates number in array">
+      <created>1673793997582</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673793997582</updated>
+    </task>
+    <task id="LOCAL-00004" summary="End of Array element">
+      <created>1673794073843</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673794073843</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Integer Reversal">
+      <created>1673794172283</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673794172283</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Missing number in array">
+      <created>1673794251014</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673794251014</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Intersecting Two Arrays">
+      <created>1676882341529</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676882341529</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Maximum sum of a sub array">
+      <created>1676895246864</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676895246864</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Armstrong Number" />
+    <MESSAGE value="Basic Stats On Array" />
+    <MESSAGE value="Duplicates number in array" />
+    <MESSAGE value="End of Array element" />
+    <MESSAGE value="Integer Reversal" />
+    <MESSAGE value="Missing number in array" />
+    <MESSAGE value="Intersecting Two Arrays" />
+    <MESSAGE value="Maximum sum of a sub array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Maximum sum of a sub array" />
   </component>
 </project>
