@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="175bca50-39fc-429a-9916-9a2be51e8517" name="Changes" comment="Maximum sum of a sub array">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayDuplication/Dsa2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/InterviewQuestionsPractice2/ArrayReversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LargestAndSecondLargest/Dsa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Palindrome/PalindromeString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/InterviewQuestionsPractice/ArraySorting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/InterviewQuestionsPractice/DuplicatesNumberInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterviewQuestionsPractice/DuplicatesNumberInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/InterviewQuestionsPractice2/BasicStatsOnArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/RotatingArray/RotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RotatingArray/RotateArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reversePolishNotation/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reversePolishNotation/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/wordBreak/WorkBreakSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/wordBreak/WorkBreakSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IntersectionOfTwoArrays/IntersectingArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IntersectionOfTwoArrays/IntersectingArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LargestAndSecondLargest/Dsa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LargestAndSecondLargest/Dsa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +48,13 @@
       <recent name="InterviewQuestionsPractice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Dsa">
-    <configuration name="BasicStatsOnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQuestionsPractice2.BasicStatsOnArray" />
+  <component name="RunManager" selected="Application.ArraySorting">
+    <configuration name="ArraySorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestionsPractice.ArraySorting" />
       <module name="LeetCodeQA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InterviewQuestionsPractice2.*" />
+          <option name="PATTERN" value="InterviewQuestionsPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,32 +75,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dsa2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayDuplication.Dsa2" />
-      <module name="LeetCodeQA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArrayDuplication.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DuplicatesNumberInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQuestionsPractice.DuplicatesNumberInArray" />
-      <module name="LeetCodeQA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="InterviewQuestionsPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ExpandingArray.Expand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExpandingArray.Expand" />
       <module name="LeetCodeQA" />
@@ -122,13 +88,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IntegerReversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestionsPractice.IntegerReversal" />
+      <module name="LeetCodeQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterviewQuestionsPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntersectingArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntersectionOfTwoArrays.IntersectingArrays" />
+      <module name="LeetCodeQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IntersectionOfTwoArrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArraySorting" />
+        <item itemvalue="Application.IntegerReversal" />
+        <item itemvalue="Application.IntersectingArrays" />
         <item itemvalue="Application.Dsa" />
         <item itemvalue="Application.ExpandingArray.Expand" />
-        <item itemvalue="Application.Dsa2" />
-        <item itemvalue="Application.DuplicatesNumberInArray" />
-        <item itemvalue="Application.BasicStatsOnArray" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +141,7 @@
       <workItem from="1678021632963" duration="1619000" />
       <workItem from="1678521530850" duration="818000" />
       <workItem from="1679603453376" duration="13301000" />
-      <workItem from="1680093834850" duration="5047000" />
+      <workItem from="1680093834850" duration="18396000" />
     </task>
     <task id="LOCAL-00001" summary="Armstrong Number">
       <created>1673793473798</created>
