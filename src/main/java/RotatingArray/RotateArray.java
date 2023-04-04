@@ -3,9 +3,7 @@ package RotatingArray;
 //Problem: Rotate an array of n elements to the right by k steps. For example, with n
 //        = 7 and k = 3, the array [1,2,3,4,5,6,7] is rotated to [5,6,7,1,2,3,4].
 
-import java.util.Arrays;
-import java.util.Scanner;
-import java.util.Stack;
+import java.util.*;
 
 public class RotateArray {
     private static Scanner input = new Scanner(System.in);
@@ -13,7 +11,9 @@ public class RotateArray {
     public static void main(String[] args) {
         int [] nums = {1, 2, 3, 4, 5, 6, 7};
 //        rightRotation(nums, 3);
-        leftRotation(nums);
+//        leftRotation(nums);
+        rotateArrayFromTheLeft(nums);
+        rotateArrayFromTheRight(nums);
     }
     private static void leftRotation(int [] nums) {
         System.out.println(Arrays.toString(nums));
@@ -49,5 +49,29 @@ public class RotateArray {
         for (int i = 0; i < arr.length; i++) {
             System.out.print(" " + arr[i]);
         }
+    }
+
+    // Another approach
+
+    public static void rotateArrayFromTheLeft(int [] obj) {
+        ArrayList<Integer> arrayList = new ArrayList<>();
+        for (int i = 3; i < obj.length; i++) {
+            arrayList.add(obj[i]);
+        }
+        for (int i = 0; i < obj.length-4; i++) {
+            arrayList.add(obj[i]);
+        }
+        System.out.println(arrayList);
+    }
+
+    public static void rotateArrayFromTheRight(int [] arr) {
+        List<Integer> lst = new ArrayList<>();
+        for (int i = arr.length-1; i > arr.length-4; i--) {
+            lst.add(arr[i]);
+        }
+        for (int i = 0; i < arr.length-3; i++) {
+            lst.add(arr[i]);
+        }
+        System.out.println(lst);
     }
 }

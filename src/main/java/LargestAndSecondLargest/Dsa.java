@@ -9,6 +9,7 @@ public class Dsa {
         largestNumberAndSecondLargest(arr);
     }
 
+
     private static void largestNumberAndSecondLargest(int [] obj) {
         List<Integer> num = new ArrayList<>();
         int secondLargest = Integer.MIN_VALUE;
