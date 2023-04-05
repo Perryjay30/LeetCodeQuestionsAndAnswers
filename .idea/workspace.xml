@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="175bca50-39fc-429a-9916-9a2be51e8517" name="Changes" comment="Maximum sum of a sub array">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LargestAndSecondLargest/Dsa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LargestAndSecondLargest/Dsa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/RotatingArray/RotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RotatingArray/RotateArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ArrayDuplication/Dsa2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArrayDuplication/Dsa2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InterviewQuestionsPractice/DuplicatesNumberInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterviewQuestionsPractice/DuplicatesNumberInArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
       <recent name="InterviewQuestionsPractice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RotateArray">
+  <component name="RunManager" selected="Application.Dsa2">
     <configuration name="ArraySorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InterviewQuestionsPractice.ArraySorting" />
       <module name="LeetCodeQA" />
@@ -74,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntegerReversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQuestionsPractice.IntegerReversal" />
+    <configuration name="Dsa2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayDuplication.Dsa2" />
       <module name="LeetCodeQA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InterviewQuestionsPractice.*" />
+          <option name="PATTERN" value="ArrayDuplication.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntersectingArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IntersectionOfTwoArrays.IntersectingArrays" />
+    <configuration name="IntegerReversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestionsPractice.IntegerReversal" />
       <module name="LeetCodeQA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IntersectionOfTwoArrays.*" />
+          <option name="PATTERN" value="InterviewQuestionsPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Dsa2" />
         <item itemvalue="Application.RotateArray" />
         <item itemvalue="Application.Dsa" />
         <item itemvalue="Application.ArraySorting" />
         <item itemvalue="Application.IntegerReversal" />
-        <item itemvalue="Application.IntersectingArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +140,7 @@
       <workItem from="1678021632963" duration="1619000" />
       <workItem from="1678521530850" duration="818000" />
       <workItem from="1679603453376" duration="13301000" />
-      <workItem from="1680093834850" duration="22332000" />
+      <workItem from="1680093834850" duration="28753000" />
     </task>
     <task id="LOCAL-00001" summary="Armstrong Number">
       <created>1673793473798</created>
