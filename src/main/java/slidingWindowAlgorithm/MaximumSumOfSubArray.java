@@ -15,7 +15,7 @@ public class MaximumSumOfSubArray {
     }
 
 //    Another method
-    public static int maxSum2(int k, int [] arr, int n) {
+    public static int maxSum2(int [] arr, int n, int k) {
         if (n < k) {
             System.out.println("Invalid");
             return -1;
@@ -36,7 +36,8 @@ public class MaximumSumOfSubArray {
         int [] arr = {1, 4, 2, 10, 2, 3, 1, 0, 20};
         int k = 4;
         int n = arr.length;
-        System.out.println(maxSum2(k, arr, n));
+//        System.out.println(maxSum(arr, k, n));
+        System.out.println(maxSum2(arr, k, n));
 
     }
 }
