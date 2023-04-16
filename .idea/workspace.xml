@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="175bca50-39fc-429a-9916-9a2be51e8517" name="Changes" comment="Maximum sum of a sub array">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayDuplication/PrintDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IntersectionOfArrays/IntersectingMultipleArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IntersectionOfTwoArrays/IntersectingArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IntersectionOfArrays/IntersectingTwoArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/slidingWindowAlgorithm/MaximumSumOfSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/slidingWindowAlgorithm/MaximumSumOfSubArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +49,7 @@
       <recent name="InterviewQuestionsPractice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaximumSumOfSubArray">
+  <component name="RunManager" selected="Application.IntersectingTwoArrays">
     <configuration name="ArraySorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InterviewQuestionsPractice.ArraySorting" />
       <module name="LeetCodeQA" />
@@ -60,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dsa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LargestAndSecondLargest.Dsa" />
+    <configuration name="IntersectingMultipleArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntersectionOfArrays.IntersectingMultipleArrays" />
       <module name="LeetCodeQA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LargestAndSecondLargest.*" />
+          <option name="PATTERN" value="IntersectionOfArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dsa2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayDuplication.Dsa2" />
+    <configuration name="IntersectingTwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntersectionOfArrays.IntersectingTwoArrays" />
       <module name="LeetCodeQA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArrayDuplication.*" />
+          <option name="PATTERN" value="IntersectionOfArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RotatingArray.RotateArray" />
+    <configuration name="PrintDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayDuplication.PrintDuplicates" />
       <module name="LeetCodeQA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RotatingArray.*" />
+          <option name="PATTERN" value="ArrayDuplication.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaximumSumOfSubArray" />
-        <item itemvalue="Application.Dsa2" />
-        <item itemvalue="Application.RotateArray" />
-        <item itemvalue="Application.Dsa" />
+        <item itemvalue="Application.IntersectingTwoArrays" />
+        <item itemvalue="Application.PrintDuplicates" />
         <item itemvalue="Application.ArraySorting" />
+        <item itemvalue="Application.IntersectingMultipleArrays" />
+        <item itemvalue="Application.MaximumSumOfSubArray" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +144,7 @@
       <workItem from="1679603453376" duration="13301000" />
       <workItem from="1680093834850" duration="30047000" />
       <workItem from="1680884951845" duration="589000" />
-      <workItem from="1681516063473" duration="16473000" />
+      <workItem from="1681516063473" duration="35888000" />
     </task>
     <task id="LOCAL-00001" summary="Armstrong Number">
       <created>1673793473798</created>

@@ -4,12 +4,12 @@ public class MaximumSumOfSubArray {
     public static int maxSum(int[] arr, int n, int k) {
         int max_sum = Integer.MIN_VALUE;
         for (int i = 0; i < n - k + 1; i++) {
-            int current_sum = 0;
+            int currentSum = 0;
             for (int j = 0; j < k; j++) {
-                current_sum = current_sum + arr[i + j];
+                currentSum = currentSum + arr[i + j];
             }
 //            max_sum = Math.max(current_sum, max_sum);
-            if(current_sum > max_sum) max_sum = current_sum;
+            if(currentSum > max_sum) max_sum = currentSum;
         }
         return max_sum;
     }
@@ -20,16 +20,16 @@ public class MaximumSumOfSubArray {
             System.out.println("Invalid");
             return -1;
         }
-        int max_sum = 0;
+        int maxSum = 0;
         for (int i = 0; i < k; i++) {
-            max_sum += arr[i];
+            maxSum += arr[i];
         }
-        int window_sum = max_sum;
+        int windowSum = maxSum;
         for (int i = k; i < n; i++) {
-            window_sum += arr[i] - arr[i - k];
-            max_sum = Math.max(max_sum, window_sum);
+            windowSum += arr[i] - arr[i - k];
+            maxSum = Math.max(maxSum, windowSum);
         }
-        return max_sum;
+        return maxSum;
     }
 
     public static void main(String[] args) {
