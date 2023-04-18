@@ -27,13 +27,8 @@ public class IntersectingTwoArrays {
     }
 
     public static Integer [] printDuplicate(Integer [] num1, Integer [] num2) {
-//        return Stream.of(num1)
-//                .filter(Arrays.asList(num2)::contains)
-//                .distinct()
-//                .toArray(Integer[]::new);
         return Stream.of(num1)
                 .filter(Arrays.asList(num2)::contains)
                 .distinct().toArray(Integer[]::new);
-
     }
 }
