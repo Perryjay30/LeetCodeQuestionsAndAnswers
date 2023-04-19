@@ -12,17 +12,15 @@ public class IntersectingMultipleArrays {
 
     public static List<Integer> multipleArrays(int [][] arr) {
         ArrayList<Integer> arrList = new ArrayList<>();
-        HashMap<Integer, Integer> map = new HashMap<>();
+        Map<Integer, Integer> map = new HashMap<>();
         for (int i = 0; i < arr.length; i++) {
             for (int j = 0; j < arr[i].length; j++) {
-                map.put(arr[i][j], map.getOrDefault(arr[i][j], 0) +1);
+                map.put(arr[i][j], map.getOrDefault(arr[i][j], 0) + 1);
             }
         }
 
-        for(Integer key : map.keySet()) {
-            if(map.get(key) == arr.length) {
-                arrList.add(key);
-            }
+        for (Integer key : map.keySet()) {
+            if (map.get(key) == arr.length) arrList.add(key);
         }
 
         Collections.sort(arrList);

@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="175bca50-39fc-429a-9916-9a2be51e8517" name="Changes" comment="Maximum sum of a sub array">
+      <change afterPath="$PROJECT_DIR$/src/main/java/InterviewQuestionsPractice/GettingMaximumInGeneratedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/IntersectionOfArrays/IntersectingMultipleArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IntersectionOfArrays/IntersectingMultipleArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/IntersectionOfArrays/IntersectingTwoArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IntersectionOfArrays/IntersectingTwoArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +47,22 @@
       <recent name="InterviewQuestionsPractice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IntersectingMultipleArrays">
+  <component name="RunManager" selected="Application.GettingMaximumInGeneratedArray">
     <configuration name="ArraySorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InterviewQuestionsPractice.ArraySorting" />
+      <module name="LeetCodeQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterviewQuestionsPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GettingMaximumInGeneratedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestionsPractice.GettingMaximumInGeneratedArray" />
       <module name="LeetCodeQA" />
       <extension name="coverage">
         <pattern>
@@ -87,19 +100,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumSumOfSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="slidingWindowAlgorithm.MaximumSumOfSubArray" />
-      <module name="LeetCodeQA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="slidingWindowAlgorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PrintDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayDuplication.PrintDuplicates" />
       <module name="LeetCodeQA" />
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GettingMaximumInGeneratedArray" />
         <item itemvalue="Application.IntersectingMultipleArrays" />
         <item itemvalue="Application.IntersectingTwoArrays" />
         <item itemvalue="Application.PrintDuplicates" />
         <item itemvalue="Application.ArraySorting" />
-        <item itemvalue="Application.MaximumSumOfSubArray" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +142,7 @@
       <workItem from="1679603453376" duration="13301000" />
       <workItem from="1680093834850" duration="30047000" />
       <workItem from="1680884951845" duration="589000" />
-      <workItem from="1681516063473" duration="48102000" />
+      <workItem from="1681516063473" duration="55253000" />
     </task>
     <task id="LOCAL-00001" summary="Armstrong Number">
       <created>1673793473798</created>
