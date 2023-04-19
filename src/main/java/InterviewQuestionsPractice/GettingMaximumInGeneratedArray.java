@@ -2,12 +2,13 @@ package InterviewQuestionsPractice;
 
 public class GettingMaximumInGeneratedArray {
     public static void main(String[] args) {
-        System.out.println(getMaxInGeneratedArray(10));
+        System.out.println(getMaxInGeneratedArray(12));
     }
 
     public static int getMaxInGeneratedArray(int n) {
         if (n < 2) return n;
         int[] nums = new int[n+1];
+        nums[0] = 0;
         nums[1] = 1;
         int max = 0;
         for (int i = 2; i <= n; i++) {
