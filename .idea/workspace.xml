@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="175bca50-39fc-429a-9916-9a2be51e8517" name="Changes" comment="Maximum sum of a sub array">
+      <change afterPath="$PROJECT_DIR$/src/main/java/IntersectionOfArrays/DifferenceOfTwoArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/IntersectionOfArrays/IntersectingTwoArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IntersectionOfArrays/IntersectingTwoArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/InterviewQuestionsPractice/GettingMaximumInGeneratedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterviewQuestionsPractice/GettingMaximumInGeneratedArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +46,13 @@
       <recent name="InterviewQuestionsPractice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IntersectingTwoArrays">
-    <configuration name="ArraySorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQuestionsPractice.ArraySorting" />
+  <component name="RunManager" selected="Application.DifferenceOfTwoArrays">
+    <configuration name="DifferenceOfTwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntersectionOfArrays.DifferenceOfTwoArrays" />
       <module name="LeetCodeQA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InterviewQuestionsPractice.*" />
+          <option name="PATTERN" value="IntersectionOfArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DifferenceOfTwoArrays" />
+        <item itemvalue="Application.PrintDuplicates" />
         <item itemvalue="Application.IntersectingTwoArrays" />
         <item itemvalue="Application.GettingMaximumInGeneratedArray" />
         <item itemvalue="Application.IntersectingMultipleArrays" />
-        <item itemvalue="Application.PrintDuplicates" />
-        <item itemvalue="Application.ArraySorting" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +141,7 @@
       <workItem from="1679603453376" duration="13301000" />
       <workItem from="1680093834850" duration="30047000" />
       <workItem from="1680884951845" duration="589000" />
-      <workItem from="1681516063473" duration="68823000" />
+      <workItem from="1681516063473" duration="77231000" />
     </task>
     <task id="LOCAL-00001" summary="Armstrong Number">
       <created>1673793473798</created>
