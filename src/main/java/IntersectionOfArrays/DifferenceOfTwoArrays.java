@@ -1,12 +1,12 @@
 package IntersectionOfArrays;
 
 import java.util.*;
-import java.util.stream.Stream;
+
 
 public class DifferenceOfTwoArrays {
     public static void main(String[] args) {
-        int [] nums = {1, 2, 3};
-        int [] nums2 = {2, 4, 6};
+        int [] nums = {1, 2, 3, 6, 1, 2};
+        int [] nums2 = {2, 4, 6, 2, 6, 4};
         System.out.println(diffArrays(nums, nums2));
     }
 

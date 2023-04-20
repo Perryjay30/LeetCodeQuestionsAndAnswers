@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="175bca50-39fc-429a-9916-9a2be51e8517" name="Changes" comment="Maximum sum of a sub array">
-      <change afterPath="$PROJECT_DIR$/src/main/java/IntersectionOfArrays/DifferenceOfTwoArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IntersectionOfArrays/DifferenceOfTwoArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IntersectionOfArrays/DifferenceOfTwoArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +141,7 @@
       <workItem from="1679603453376" duration="13301000" />
       <workItem from="1680093834850" duration="30047000" />
       <workItem from="1680884951845" duration="589000" />
-      <workItem from="1681516063473" duration="77231000" />
+      <workItem from="1681516063473" duration="78309000" />
     </task>
     <task id="LOCAL-00001" summary="Armstrong Number">
       <created>1673793473798</created>
