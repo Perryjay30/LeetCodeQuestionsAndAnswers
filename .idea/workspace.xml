@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="175bca50-39fc-429a-9916-9a2be51e8517" name="Changes" comment="Maximum sum of a sub array">
-      <change afterPath="$PROJECT_DIR$/src/main/java/InterviewQuestionsPractice2/ArithmeticTriplets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AsteriskCardNumber/AsteriskCreditCardNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -32,21 +33,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="InterviewQuestionsPractice2" />
       <recent name="InterviewQuestionsPractice" />
     </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="AsteriskCardNumber" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.ArithmeticTriplets">
+  <component name="RunManager" selected="Application.AsteriskCreditCardNumbers">
     <configuration name="ArithmeticTriplets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InterviewQuestionsPractice2.ArithmeticTriplets" />
       <module name="LeetCodeQA" />
@@ -60,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DifferenceOfTwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IntersectionOfArrays.DifferenceOfTwoArrays" />
+    <configuration name="AsteriskCreditCardNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AsteriskCardNumber.AsteriskCreditCardNumbers" />
       <module name="LeetCodeQA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IntersectionOfArrays.*" />
+          <option name="PATTERN" value="AsteriskCardNumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GettingMaximumInGeneratedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQuestionsPractice.GettingMaximumInGeneratedArray" />
+    <configuration name="DifferenceOfTwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntersectionOfArrays.DifferenceOfTwoArrays" />
       <module name="LeetCodeQA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InterviewQuestionsPractice.*" />
+          <option name="PATTERN" value="IntersectionOfArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArithmeticTriplets" />
+        <item itemvalue="Application.AsteriskCreditCardNumbers" />
         <item itemvalue="Application.DifferenceOfTwoArrays" />
+        <item itemvalue="Application.ArithmeticTriplets" />
         <item itemvalue="Application.PrintDuplicates" />
         <item itemvalue="Application.IntersectingTwoArrays" />
-        <item itemvalue="Application.GettingMaximumInGeneratedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -142,6 +151,9 @@
       <workItem from="1680093834850" duration="30047000" />
       <workItem from="1680884951845" duration="589000" />
       <workItem from="1681516063473" duration="90395000" />
+      <workItem from="1682161341991" duration="2774000" />
+      <workItem from="1682501154150" duration="644000" />
+      <workItem from="1709335913337" duration="8155000" />
     </task>
     <task id="LOCAL-00001" summary="Armstrong Number">
       <created>1673793473798</created>
